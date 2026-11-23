@@ -24,7 +24,7 @@ Nike sales data with these columns: Order_ID, Gender_Category, Product_Line, Pro
 9. Month-over-month revenue growth
 
 ## Dashboard
-Add your dashboard link or screenshot here.
+![Nike Dashboard](Nike%20dashboard%20image.png)
 
 ## Business Problems and Solutions
 
@@ -42,4 +42,5 @@ Add your dashboard link or screenshot here.
 
 ## Files in this Repo
 - `nike-sales.sql`: all SQL queries
+- `Nike dashboard image.png`: dashboard screenshot
 - `README.md`: project summary
