@@ -38,6 +38,8 @@ Add your dashboard link or screenshot here.
 **Solution** - Grow men's line by more variety of products and good marketing
 
 **Problem** - Size M tops Basketball and Lifestyle, and L tops Training
+
+![Dashboard](dashboard.png)
 **Solution** - Stock more of those sizes in each line to avoid stock-outs on best sellers
 
 ## Files in this Repo
